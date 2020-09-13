@@ -8,7 +8,7 @@ I am Sasank Jalari, My main interest lies in Data Science and Artificial Intelli
 
 - 🔭 I’m currently working on **Data Science capstone project**. 
 - 🌱 I’m currently learning **R** and **Golang**.
-- 👯 I’m looking to collaborate on any **Data Science** or **Machine Learning projects**.
+- 👯 I’m looking to collaborate on any **Data Science**,**Machine Learning** or **AI** projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python and Cricket :wink:
 - 📫 How to reach me: sasankjalari11@gmail.com
