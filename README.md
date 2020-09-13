@@ -1,4 +1,4 @@
-[![Linkedin](file:///Users/sasankjalari/Downloads/iconfinder_square-linkedin_317725.png)](www.linkedin.com/in/sasank-jalari-b592b9143)
+[![Linkedin](https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-16.png)](www.linkedin.com/in/sasank-jalari-b592b9143)
 
 ### Hi there 👋
 
