@@ -1,4 +1,4 @@
-www.linkedin.com/in/sasank-jalari-b592b9143
+[![Linked](https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png](www.linkedin.com/in/sasank-jalari-b592b9143)
 
 ### Hi there 👋
 
