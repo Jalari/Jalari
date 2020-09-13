@@ -11,6 +11,6 @@ I am Sasank Jalari
 - 👯 I’m looking to collaborate on any **Data Science** or **Machine Learning projects**.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python and Cricket :wink:
-- 📫 How to reach me: mailto:sasankjalari11@gmail.com
+- 📫 How to reach me: sasankjalari11@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
