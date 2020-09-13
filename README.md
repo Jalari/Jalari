@@ -4,9 +4,7 @@
 
 ## Hi there 👋
 
-**Jalari/Jalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Sasank Jalari
 
 - 🔭 I’m currently working on **Data Science capstone project**. 
 - 🌱 I’m currently learning **R** and **Golang**.
