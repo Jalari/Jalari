@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science capstone project. 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on any Data Science or Machine Learning project.
+- 🌱 I’m currently learning R and Golang.
+- 👯 I’m looking to collaborate on any Data Science or Machine Learning projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
