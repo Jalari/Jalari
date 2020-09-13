@@ -1,4 +1,4 @@
-[![Linked](https://blog.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png](www.linkedin.com/in/sasank-jalari-b592b9143)
+[![Linked](https://pbs.twimg.com/profile_images/1082424539492073477/exU8rYn8_400x400.jpg](www.linkedin.com/in/sasank-jalari-b592b9143)
 
 ### Hi there 👋
 
