@@ -1,4 +1,4 @@
-[![Linkedin](https://logodix.com/logo/4349.png)](www.linkedin.com/in/sasank-jalari-b592b9143)
+[![Linkedin](file:///Users/sasankjalari/Downloads/iconfinder_square-linkedin_317725.png)](www.linkedin.com/in/sasank-jalari-b592b9143)
 
 ### Hi there 👋
 
