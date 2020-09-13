@@ -2,7 +2,7 @@
 
 [![Linkedin](https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-24.png)](https://www.linkedin.com/in/sasank-jalari-b592b9143/)
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Jalari/Jalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
