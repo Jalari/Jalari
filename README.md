@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I am Sasank Jalari, I believe Artificial Intelligence and Data Science can pave the way for remarkable innovations. Through  augmenting  my  knowledge  and  skill-sets  in  the  domains mentioned  above, I  want  to  be a frontrunner in this  competitive industry.
+I am Sasank Jalari, My main interest lies in Data Science and Artificial Intelligence. I believe Artificial Intelligence and Data Science can pave the way for remarkable innovations. Through  augmenting  my  knowledge  and  skill-sets  in  the  domains mentioned  above, I  want  to  be a frontrunner in this  competitive industry.
 
 - 🔭 I’m currently working on **Data Science capstone project**. 
 - 🌱 I’m currently learning **R** and **Golang**.
